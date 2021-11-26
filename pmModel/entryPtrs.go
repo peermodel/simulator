@@ -23,7 +23,7 @@
 package pmModel
 
 import (
-	. "cca/debug"
+	. "github.com/peermodel/simulator/debug"
 	"fmt"
 )
 

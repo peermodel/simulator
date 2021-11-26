@@ -23,7 +23,7 @@
 package latex
 
 import (
-	. "cca/helpers"
+	. "github.com/peermodel/simulator/helpers"
 	"strings"
 )
 

@@ -23,8 +23,8 @@
 package pmModel
 
 import (
-	. "cca/helpers"
-	. "cca/scheduler"
+	. "github.com/peermodel/simulator/helpers"
+	. "github.com/peermodel/simulator/scheduler"
 	"strconv"
 )
 

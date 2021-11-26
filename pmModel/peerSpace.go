@@ -25,13 +25,13 @@
 package pmModel
 
 import (
-	. "cca/config"
-	. "cca/debug"
-	. "cca/eventInterface"
-	. "cca/helpers"
-	. "cca/latex"
-	. "cca/scheduler"
-	. "cca/slotInterface"
+	. "github.com/peermodel/simulator/config"
+	. "github.com/peermodel/simulator/debug"
+	. "github.com/peermodel/simulator/eventInterface"
+	. "github.com/peermodel/simulator/helpers"
+	. "github.com/peermodel/simulator/latex"
+	. "github.com/peermodel/simulator/scheduler"
+	. "github.com/peermodel/simulator/slotInterface"
 	"fmt"
 	"os"
 	"strings"

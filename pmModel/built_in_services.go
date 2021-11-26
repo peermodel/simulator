@@ -23,9 +23,9 @@
 package pmModel
 
 import (
-	. "cca/controller"
-	. "cca/debug"
-	. "cca/scheduler"
+	. "github.com/peermodel/simulator/controller"
+	. "github.com/peermodel/simulator/debug"
+	. "github.com/peermodel/simulator/scheduler"
 	"fmt"
 )
 

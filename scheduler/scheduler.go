@@ -29,9 +29,9 @@
 package scheduler
 
 import (
-	. "cca/config"
-	. "cca/debug"
-	. "cca/helpers"
+	. "github.com/peermodel/simulator/config"
+	. "github.com/peermodel/simulator/debug"
+	. "github.com/peermodel/simulator/helpers"
 	"fmt"
 )
 

@@ -23,8 +23,8 @@
 package pmModel
 
 import (
-	. "cca/controller"
-	. "cca/scheduler"
+	. "github.com/peermodel/simulator/controller"
+	. "github.com/peermodel/simulator/scheduler"
 )
 
 // nb: machine parameter is needed for m.Vars (and also for debug traces) in services

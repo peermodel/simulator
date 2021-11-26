@@ -27,7 +27,7 @@
 package scheduler
 
 import (
-	. "cca/config"
+	. "github.com/peermodel/simulator/config"
 	"fmt"
 )
 

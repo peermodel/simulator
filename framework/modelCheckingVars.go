@@ -27,7 +27,7 @@
 
 package framework
 
-//	. "cca/config"
+//	. "github.com/peermodel/simulator/config"
 
 //////////////////////////////////////////////////////////////
 // data type

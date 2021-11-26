@@ -30,10 +30,10 @@
 package contextInterface
 
 import (
-	. "cca/debug"
-	. "cca/latex"
-	. "cca/scheduler"
-	. "cca/slotInterface"
+	. "github.com/peermodel/simulator/debug"
+	. "github.com/peermodel/simulator/latex"
+	. "github.com/peermodel/simulator/scheduler"
+	. "github.com/peermodel/simulator/slotInterface"
 )
 
 //============================================================

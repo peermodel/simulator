@@ -46,13 +46,13 @@
 package framework
 
 import (
-	. "cca/config"
-	. "cca/controller"
-	. "cca/debug"
-	. "cca/eventInterface"
-	. "cca/helpers"
-	. "cca/metaContextInterface"
-	. "cca/scheduler"
+	. "github.com/peermodel/simulator/config"
+	. "github.com/peermodel/simulator/controller"
+	. "github.com/peermodel/simulator/debug"
+	. "github.com/peermodel/simulator/eventInterface"
+	. "github.com/peermodel/simulator/helpers"
+	. "github.com/peermodel/simulator/metaContextInterface"
+	. "github.com/peermodel/simulator/scheduler"
 	"fmt"
 	"runtime"
 	"sync"

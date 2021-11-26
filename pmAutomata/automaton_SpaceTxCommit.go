@@ -24,12 +24,12 @@ package pmAutomata
 import (
     "errors"
     "fmt"
-    . "cca/contextInterface"
-    . "cca/debug"
-    . "cca/helpers"
-    . "cca/scheduler"
-    . "cca/pmModel"
-    . "cca/framework"
+    . "github.com/peermodel/simulator/contextInterface"
+    . "github.com/peermodel/simulator/debug"
+    . "github.com/peermodel/simulator/helpers"
+    . "github.com/peermodel/simulator/scheduler"
+    . "github.com/peermodel/simulator/pmModel"
+    . "github.com/peermodel/simulator/framework"
 )
 
 // --------------------------------------

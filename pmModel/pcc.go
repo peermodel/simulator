@@ -23,7 +23,7 @@
 package pmModel
 
 import (
-	. "cca/helpers"
+	. "github.com/peermodel/simulator/helpers"
 )
 
 type Pcc struct {

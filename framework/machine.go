@@ -29,11 +29,11 @@
 package framework
 
 import (
-	. "cca/contextInterface"
-	. "cca/controller"
-	. "cca/debug"
-	. "cca/helpers"
-	. "cca/scheduler"
+	. "github.com/peermodel/simulator/contextInterface"
+	. "github.com/peermodel/simulator/controller"
+	. "github.com/peermodel/simulator/debug"
+	. "github.com/peermodel/simulator/helpers"
+	. "github.com/peermodel/simulator/scheduler"
 	"fmt"
 	"runtime"
 )

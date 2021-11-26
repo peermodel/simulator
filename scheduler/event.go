@@ -30,9 +30,9 @@
 package scheduler
 
 import (
-	. "cca/config"
-	. "cca/debug"
-	. "cca/eventInterface"
+	. "github.com/peermodel/simulator/config"
+	. "github.com/peermodel/simulator/debug"
+	. "github.com/peermodel/simulator/eventInterface"
 	"fmt"
 )
 

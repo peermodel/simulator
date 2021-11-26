@@ -23,9 +23,9 @@
 package pmAutomata
 
 import (
-	. "cca/debug"
-	. "cca/framework"
-	. "cca/pmModel"
+	. "github.com/peermodel/simulator/debug"
+	. "github.com/peermodel/simulator/framework"
+	. "github.com/peermodel/simulator/pmModel"
 )
 
 func NewAutomaton_SpaceUndoWrite(automatonName string, createAutomatonFlag bool, a *Automaton) (*Automaton, *Machine) {

@@ -27,8 +27,8 @@
 package scheduler
 
 import (
-	. "cca/debug"
-	. "cca/slotInterface"
+	. "github.com/peermodel/simulator/debug"
+	. "github.com/peermodel/simulator/slotInterface"
 	"fmt"
 )
 

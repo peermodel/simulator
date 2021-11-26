@@ -23,7 +23,7 @@
 package pmModel
 
 import (
-	. "cca/debug"
+	. "github.com/peermodel/simulator/debug"
 )
 
 // @@@ should better be a map! with key = eid

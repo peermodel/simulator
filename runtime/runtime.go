@@ -29,11 +29,11 @@
 package runtime
 
 import (
-	. "cca/config"
-	. "cca/debug"
-	. "cca/framework"
-	. "cca/latex"
-	. "cca/scheduler"
+	. "github.com/peermodel/simulator/config"
+	. "github.com/peermodel/simulator/debug"
+	. "github.com/peermodel/simulator/framework"
+	. "github.com/peermodel/simulator/latex"
+	. "github.com/peermodel/simulator/scheduler"
 	"fmt"
 	"runtime"
 )

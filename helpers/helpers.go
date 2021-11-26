@@ -28,7 +28,7 @@ package helpers
 
 import (
 	"bytes"
-	. "cca/debug"
+	. "github.com/peermodel/simulator/debug"
 	"fmt"
 	"reflect"
 	"runtime"

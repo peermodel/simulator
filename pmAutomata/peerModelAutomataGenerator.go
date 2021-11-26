@@ -23,11 +23,11 @@
 package pmAutomata
 
 import (
-	. "cca/debug"
-	. "cca/framework"
-	. "cca/helpers"
-	. "cca/pmModel"
-	. "cca/scheduler"
+	. "github.com/peermodel/simulator/debug"
+	. "github.com/peermodel/simulator/framework"
+	. "github.com/peermodel/simulator/helpers"
+	. "github.com/peermodel/simulator/pmModel"
+	. "github.com/peermodel/simulator/scheduler"
 	"fmt"
 )
 

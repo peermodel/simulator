@@ -28,8 +28,8 @@
 package framework
 
 import (
-	//	. "cca/config"
-	. "cca/debug"
+	//	. "github.com/peermodel/simulator/config"
+	. "github.com/peermodel/simulator/debug"
 	"fmt"
 )
 
