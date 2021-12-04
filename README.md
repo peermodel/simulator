@@ -1,6 +1,7 @@
 # simulator
-The Peer Model is a modeling tool for distribution, concurrency and blackboard-based collaboration and coordination.
-This repository contains the simulator that runs use cases previously translated to go-code using the translator.
+First, please download the jar file of the Peer-Model translator and follow the instructions in the readme file  https://github.com/peermodel/translator#readme there.
 
-Please download the jar file of the Peer-Model translator first and follow the instructions in the readme file https://github.com/peermodel/translator#readme.
+Then check out examples from https://github.com/peermodel/examples and follow the instructions found in the readme file https://github.com/peermodel/examples#readme there.
+
+Tutorial on how to model a use case and how to use the toolchain: <a href="https://youtu.be/SkuHuomUCtY" target="_blank">youtu.be/SkuHuomUCtY</a>.
 
