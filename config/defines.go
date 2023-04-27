@@ -35,7 +35,11 @@ package config
 //------------------------------------------------------------
 // overall system time aka "system ttl (time to live)"
 // - default = 100000
+<<<<<<< HEAD
 const SYSTEM_TTL int = 1000002
+=======
+const SYSTEM_TTL int = 1000001
+>>>>>>> 1d222a927ff05b093e1fbc3008c0cd480422ef94
 
 //------------------------------------------------------------
 // increment time after N times; or if no condition is fulfilled
